@@ -62,11 +62,17 @@ body{
         line-height: 20px;
     }
 }
-.card1{
+.card-sns{
     background-color: rgb(6, 0, 41);
     display: block;
-    height: 500px;
 }
 .card-con{
-    padding: 20px;
+    padding: 30px;
+}
+
+.hover-text-instar:hover{
+    color: rgb(213, 140, 231);
+}
+.hover-text-github:hover{
+    color: rgb(99, 99, 99);
 }
